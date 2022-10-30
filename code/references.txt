@@ -1,3 +1,0 @@
-1. https://docs.python.org/3/howto/argparse.html#id1
-2. https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2022/index.html
-3. https://stackoverflow.com/questions/38141404/printing-float-up-to-six-decimal-places
